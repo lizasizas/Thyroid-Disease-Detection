@@ -15,13 +15,13 @@ This repository contains code for exploring and predicting thyroid disease using
   - Explore the relationship between features and the presence of thyroid disease.
 
 - **Model Training and Evaluation:**
-  - Implement various machine learning models such as Logistic Regression, Decision Tree, Random Forest, and Support Vector Machine.
+  - Implement various machine learning models such as XGBoost and AdaBoost.
   - Evaluate model performance using metrics such as accuracy, precision, recall, and F1-score.
   - Perform hyperparameter tuning to optimize model performance.
 
 ## Requirements:
 
-- Python 3.x
+- Python
 - pandas
 - numpy
 - matplotlib
