@@ -33,4 +33,3 @@ This repository contains code for exploring and predicting thyroid disease using
 1. **Clone the repository:**
    ```sh
    git clone https://github.com/lizasizas/Thyroid-Disease-Detection.git
-   cd Thyroid-Disease-Detection
